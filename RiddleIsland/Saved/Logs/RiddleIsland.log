@@ -3265,3 +3265,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.10-13.34.39:081][694]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferB", 1336 x 920 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
 [2020.10.10-13.34.39:082][694]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1336 x 920 x 1, Mips: 1, Format: 0x18, Flags: 0x1
 [2020.10.10-13.34.39:082][694]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColorDeferred", 1336 x 920 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2020.10.10-13.34.44:603][694]LogD3D12RHI: ~FD3D12DynamicRHI
+[2020.10.10-13.34.44:699][694]LogExit: Exiting.
+[2020.10.10-13.34.45:143][694]Log file closed, 10/10/20 14:34:45
