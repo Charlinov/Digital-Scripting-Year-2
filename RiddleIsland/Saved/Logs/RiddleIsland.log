@@ -6144,3 +6144,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-14.36.05:467][395]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/Second Year/Digital-Scripting-Year-2/RiddleIsland/Saved/FirstPersonCharacter95657E894031BA21AFABA190E3A7C60F.tmp' to 'C:/Users/Owner/Documents/GitHub/Second Year/Digital-Scripting-Year-2/RiddleIsland/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
 [2020.11.19-14.36.05:491][395]AssetCheck: New page: Asset Save: FirstPersonCharacter
 [2020.11.19-14.36.05:491][395]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.19-14.36.32:486][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.11.19-14.36.32:668][664]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/Second Year/Digital-Scripting-Year-2/RiddleIsland/Saved/IslandC5A2A7D94972DBC1696E1886EE597568.tmp' to 'C:/Users/Owner/Documents/GitHub/Second Year/Digital-Scripting-Year-2/RiddleIsland/Content/FirstPersonBP/Maps/Island.umap'
+[2020.11.19-14.36.32:951][664]LogSavePackage: Moving 'C:/Users/Owner/Documents/GitHub/Second Year/Digital-Scripting-Year-2/RiddleIsland/Saved/Island_BuiltDataFD9EE5F74AE6C63502F1D986CAA706C3.tmp' to 'C:/Users/Owner/Documents/GitHub/Second Year/Digital-Scripting-Year-2/RiddleIsland/Content/FirstPersonBP/Maps/Island_BuiltData.uasset'
+[2020.11.19-14.36.32:973][664]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.19-14.36.32:973][664]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Island.Island
+[2020.11.19-14.36.32:973][664]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Island_BuiltData.Island_BuiltData
+[2020.11.19-14.36.35:291][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
